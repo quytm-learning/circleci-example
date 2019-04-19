@@ -1,0 +1,25 @@
+{
+  "name": "com.tmq.circelcitest",
+  "version": "1.0.0",
+  "description": "Test CircelCI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quytm-learning/circleci-example.git"
+  },
+  "keywords": [
+    "circleci",
+    "test",
+    "ci",
+    "cd"
+  ],
+  "author": "quytm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quytm-learning/circleci-example/issues"
+  },
+  "homepage": "https://github.com/quytm-learning/circleci-example#readme"
+}
